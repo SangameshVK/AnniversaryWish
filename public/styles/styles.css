@@ -3,3 +3,11 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+#heartContainer {
+    height: 0px;
+    background-image: url('/resources/heart.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+}
