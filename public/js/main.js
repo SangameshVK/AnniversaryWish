@@ -18,7 +18,7 @@ function populateWishText3(){
 }
 
 function populateWishText4(){
-    heartContainer.css("background-image", "url('/resources/heartWithMsg4.png')");
+    heartContainer.css("background-image", "url('/resources/heartWithMsg4.PNG')");
     setTimeout(populateWishText5, 1000);
 }
 
